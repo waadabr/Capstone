@@ -1,4 +1,4 @@
-Artiest Statement:
+#Artist Statement:
 
 How successful would you say your education is or was? Was everything you learned useful? Do you remember it? How much did you have to learn on your own after high school? 
  
@@ -7,7 +7,7 @@ These are all questions that I have been pondering for the past year. Reflecting
 This project aims to immerse the user in a reflective space where they can engage in discourse on their educational backgrounds. In no way is this intended to provide solutions to the issues that can be found with existing systems, nor is it claiming to show all existing education systems. Instead, audience members are invited to experience the installation bringing their own educational experiences to reflect on and share with others.
 
 
-Bio: 
+#Bio: 
 
 
 Waad Abrahim is Sudanese American, based in Virginia. As a UX designer and researcher her interest in social impact has lead her into education as a core theme of her recent project. 
