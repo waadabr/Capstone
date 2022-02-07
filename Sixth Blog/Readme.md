@@ -4,7 +4,7 @@ I started working on the floor plan and mood board this week as well. I'm experi
 
 I am also in conversation with Jon Bonner about booking room 045 and meeting with him on Thursday to discuss my project and needs. 
 
-![](MoodBoard:FloorPlan.png)
+![](prototype.png)
 
 
 
